@@ -6,6 +6,7 @@ tests/dragTest.py
 
 # TODOs
 - See: tests/dragTest.py
+- See: myRenderer/KnotVector.py
 - See: tests/knotVectorTest.py
 - Continue researching, implementing and testing T-spline methods in tSplineTests.py and tSplineCubeTest.py
 - Remove "tests/B-Spline Expected vs Actual.png"
