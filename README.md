@@ -1,5 +1,5 @@
 # Installation
-Download the repo and run `pip install -e setup.py` to install tha package locally. (Deprecated method: will be deployed to pip soon)
+Download the repo and run `pip install -e setup.py` to install the package locally. (Deprecated method: will be deployed to pip soon)
 
 # Current entry point
 tests/dragTest.py
