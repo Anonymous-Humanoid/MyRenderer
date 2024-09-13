@@ -5,6 +5,7 @@ Download the repo and run `pip install -e setup.py` to install tha package local
 tests/dragTest.py
 
 # TODOs
+- Move unfinished code to separate branch and remove from main
 - See: tests/dragTest.py
 - See: myRenderer/KnotVector.py
 - See: tests/knotVectorTest.py
