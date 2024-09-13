@@ -16,3 +16,4 @@ tests/dragTest.py
 - Separate spline methods and test adapters in tests/simpleSplineTests.py
 - Beautify tests/splineTests.py
 - Write instructions for how to use tests/paintTest.py and tests/dragTest.py
+- Add unit tests on top of existing interactive demos
